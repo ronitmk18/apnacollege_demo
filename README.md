@@ -1,7 +1,7 @@
 # apnacollege_demo
 This is my first repository 
 <br>
-kashinath chalawade
+kashinath chalawade apnacollege solapur
 
 Steps:
 Download Git
